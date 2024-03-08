@@ -4,7 +4,7 @@
 
 ### Using NPM package
 
-Install NPM package - https://www.npmjs.com/package/demo-scrollspy-laclac
+Install NPM package - https://www.npmjs.com/package/exp-file-operation-dhp
 
 ```npm
 npm install
