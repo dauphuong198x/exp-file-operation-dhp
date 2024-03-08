@@ -1,6 +1,6 @@
 {
   "name": "exp-file-operation-dhp",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "demo read write file nodejs",
   "main": "1",
   "scripts": {
