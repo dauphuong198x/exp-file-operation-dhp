@@ -1,6 +1,6 @@
 {
   "name": "exp-file-operation-dhp",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "demo read write file nodejs",
   "main": "1",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/snipeed12/demo-scrollspy-laclac.git"
+    "url": "https://github.com/dauphuong198x/exp-file-operation-dhp.git"
   },
   "keywords": [
     "scrollspy"
@@ -16,10 +16,10 @@
   "author": "dauphuong198x",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/snipeed12/demo-scrollspy-laclac/issues"
+    "url": "https://github.com/dauphuong198x/exp-file-operation-dhp/issues"
   },
-  "homepage": "https://github.com/snipeed12/demo-scrollspy-laclac#readme",
+  "homepage": "https://github.com/dauphuong198x/exp-file-operation-dhp#readme",
   "dependencies": {
-    "file-operations-dhp": "^1.0.2",
+    "file-operations-dhp": "^1.0.2"
   }
 }
